@@ -19,16 +19,16 @@ This is a *rough* estimation on how long to spend on topics, but will be adjuste
 
 | Time    | Activity                                                | Duration |
 | ------- | ------------------------------------------------------- | -------- |
-| 10:00AM | Icebreaker, Recap Day 1, Overview of Day 2              | 30m      |
-| 10:30AM | Installation, Creating a Saga                           | 60m      |
-| 11:30AM | Break                                                   | 15m      |
-| 12:15AM | Performing REST Service Operations with a Saga          | 60m      |
-| 1:15PM  | Lunch                                                   | 60m      |
-| 2:15PM  | Error Handling                                          | 45m      |
-| 3:00PM  | Sequential, Parallel, Composing Sagas, Cancelling Tasks | 75m      |
-| 4:15PM  | Break                                                   | 15m      |
-| 4:30PM  | Saga Fork Model, Concurrency Patterns                   | 60m      |
-| 5:30PM  | Closing Q&A                                             | 15m      |
+| 09:00AM | Icebreaker, Recap Day 1, Overview of Day 2              | 30m      |
+| 09:30AM | Installation, Creating a Saga                           | 90m      |
+| 11:00AM | Break                                                   | 15m      |
+| 11:15AM | Performing REST Service Operations with a Saga          | 75m      |
+| 12:00PM | Lunch                                                   | 60m      |
+| 1:00PM  | Error Handling                                          | 60m      |
+| 2:00PM  | Sequential, Parallel, Composing Sagas, Cancelling Tasks | 60m      |
+| 3:00PM  | Break                                                   | 15m      |
+| 3:15PM  | Saga Fork Model, Concurrency Patterns                   | 60m      |
+| 4:15PM  | Closing Q&A                                             | 15m      |
 
  
 Todays Objectives
